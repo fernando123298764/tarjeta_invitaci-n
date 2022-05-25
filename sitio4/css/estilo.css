@@ -1,0 +1,182 @@
+/* Libreria de estilos para el sitio 4 */
+
+* {
+	margin: 0px;     /* Espacio externo */
+	padding: 0px;    /* Espacio interno */
+}
+
+body {
+	
+	background-image: url(enci.png);
+	font-family: tahoma;
+}
+
+body>div {
+	background-color: ;
+	width: 80%;
+	margin-left: 10%;
+	margin-top: 20px;
+}
+
+header {
+	width: 100%;
+	text-align: center;
+}
+
+header>img {
+	width: 180px;
+	height: 180px;
+}
+
+header>div {
+	width:90%;
+	margin-left:5%;
+	background-color:#af9a0b;
+	border-radius:12px;
+}
+
+header>div>h1 {
+	color:#fff;
+	padding: 30px 0px 5px 0px;
+	background-color: ;
+
+}
+
+header>div>p {
+	color:#A73737;
+	font-weight:bold;
+	padding-bottom:30px;
+	text-align: center;
+}
+
+nav {
+	width:100%;
+	text-align:center;
+	line-height:50px;
+	margin:20px 0px;
+}
+
+nav>a {
+	display:inline-block;
+	width:20%;
+	line-height:40px;
+	border-radius:5px;
+}
+
+nav>a:link, nav>a:visited {
+	color: #fff;
+	background-color:#A73741;
+	text-decoration:none;
+	font-weight:bold;
+	transition:all ease 0.5s
+}
+
+nav>a:hover{
+	color:#000;
+	background-color:#AE5858;
+	transition:all ease 0.5s;
+}
+
+section {
+	width:90%;
+	margin:0px auto;
+	display:inline-block;
+}
+
+section>article {
+	width:48%;
+	padding:4px 2px;
+	float: left;
+}
+
+section>article>img {
+	width:95%;
+	height:280px;
+	margin:0px 0px 0px 10px;
+	border: 5px ridge #A73737;
+	border-radius:8px;
+}
+
+section>article>h2 {
+	font-size:25px;
+	padding:4px 10px;
+	color: #A73733;
+}
+
+section>article>p {
+	font-size:14px;
+	text-align:justify;
+	padding:8px 10px;
+}
+
+section>article>p>a {
+	background-color:#af9a0b;
+	color:#fff;
+	text-decoration:none;
+	border-radius:5px;
+	padding:7px;
+}
+
+footer {
+	background-color: #D4D54c
+}
+footer>p {
+	text-align: center;
+	font-family:tahoma;
+	padding:8px 10px;
+}
+
+.region {
+	padding:20px 0px;
+}
+
+.titulo {
+	color:#fff;
+	background-color:#A73737;
+	border-radius:15px;
+	padding:15px;
+	text-align: left;
+}
+
+.plato {
+	width:280px;
+	
+	border-radius:10%;
+	margin:10px;
+}
+.platito {
+	width:800px;
+	text-align: center;
+	border-radius:10%;
+	margin:10px;
+
+}
+.contenedor {
+	width:89%;
+	margin-left:2%;
+	border:5px solid #A73737;
+	border-radius: 5px;
+}
+
+.imagen1{
+	width:580px;
+	float:center;
+	margin:20px 20px;
+	height: 350px;
+}
+.parrafo{
+	background-color: #fff;
+
+}
+
+}
+
+p {
+	text-align:left;
+	font-family:tahoma;
+	margin: 10px;
+}
+
+
+
+//estilos//
